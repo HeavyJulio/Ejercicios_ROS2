@@ -1,0 +1,8 @@
+int64 movimiento
+float64 distancia
+float64 giro
+---
+float64 resultado
+---
+float64 desplazamiento
+float64 angulo

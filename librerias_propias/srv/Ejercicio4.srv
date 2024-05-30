@@ -1,0 +1,6 @@
+int64 movimiento
+float64 distancia
+float64 giro
+
+---
+int64 respuesta
